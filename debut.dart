@@ -283,7 +283,7 @@ void main() {
  }
 */
  
-//extention
+//héritage de class 
 void main() {
   //appel 3
    sousclaxx nouvo = new sousclaxx("Ronel", "crist", 124, 50, 40, "bien"); 
@@ -325,3 +325,5 @@ void main() {
   }
   
  }
+
+ //polymorphisme
