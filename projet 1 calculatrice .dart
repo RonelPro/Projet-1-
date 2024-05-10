@@ -21,7 +21,7 @@ void main() {
   }
   print(calcelatrice(4, 5, "-"));
 }
-/*
+
 enum Operateur {
     addition,
     soustration,
@@ -52,4 +52,4 @@ enum Operateur {
     print(calcelatrice(4, 3, Operateur.multiplication));
     
     }
-    */
+    
